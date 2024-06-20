@@ -220,7 +220,7 @@ function resultats() {
     text("Image réelle", .3*width, offset);
   }
   text("\u0194 transversal = "+nfp(gamma, 2, 1), .55*width, offset);
-  text("\u0194 latéral = "+nfp(pow(gamma, 2), 2, 1), .8*width, offset);
+  text("\u0194 longitudinal = "+nfp(pow(gamma, 2), 2, 1), .8*width, offset);
 }
 
 
